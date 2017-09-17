@@ -1,8 +1,6 @@
 ﻿# -*- coding: utf-8 -*-
-'''
-@author: Yalei Meng    E-mail: yaleimeng@sina.com
-@license: (C) Copyright 2017, HUST Corporation Limited.
-@desc:从百思不得其解网站获取前面几页的图片。
+'''@author: Yalei Meng   
+@desc:从http://www.neihan.net/网站获取前面几页的图片。
 @DateTime: Created on 2017/9/5，at 13:06            '''
 from bs4 import BeautifulSoup
 import requests as rq
